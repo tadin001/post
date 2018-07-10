@@ -1,11 +1,11 @@
 ---
-post_title: 'bbbb'
+post_title: 'aaaaa'
 layout: post
 published: false
 ---
 Post goes here.
 
-![](https://raw.githubusercontent.com/Serhiofirst/post/master/posts/uuuu.mp4)
+![](uuuu.mp4)
 
 
 
