@@ -5,5 +5,5 @@ published: false
 ---
 Post goes here.
 
-![alt text](https://raw.githubusercontent.com/Serhiofirst/post/master/posts/animation_scripting.gif)
+![alt text](https://raw.githubusercontent.com/Serhiofirst/post/master/posts/Snowy Trees - 7328.mp4)
 
